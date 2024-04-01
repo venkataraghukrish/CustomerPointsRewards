@@ -1,0 +1,14 @@
+<data>
+    <Customer>
+        <custId>ABC1111</custId>
+        <firstName>John</firstName
+        <lastName>Doe</lastName>
+        <city>Charlotte</city>
+    </Customer>
+    <Customer>
+        <custId>ABC1112</custId>
+        <firstName>Jane</firstName
+        <lastName>Doe</lastName>
+        <city>Raleigh</city>
+    </Customer>
+</data>

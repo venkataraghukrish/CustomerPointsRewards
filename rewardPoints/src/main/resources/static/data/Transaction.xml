@@ -1,0 +1,45 @@
+<data>
+    <Transaction>
+        <custId>ABC1111</custId>
+        <transId>XYZ1312</transId>
+        <transAmount>124.32</transAmount>
+        <dateTime>3.15.2024 10.25</dateTime>
+        <points>98</points>
+    </Transaction>
+    <Transaction>
+        <custId>ABC1111</custId>
+        <transId>XYZ1313</transId>
+        <transAmount>78.32</transAmount>
+        <dateTime>2.15.2024 10.25</dateTime>
+        <points>28</points>
+    </Transaction>
+    <Transaction>
+        <custId>ABC1111</custId>
+        <transId>XYZ1314</transId>
+        <transAmount>24.32</transAmount>
+        <dateTime> 1.15.2024 10.25</dateTime>
+        <points>0</points>
+    </Transaction>
+    <Transaction>
+        <custId>ABC2222</custId>
+        <transId>XYZ1315</transId>
+        <transAmount>174.32</transAmount>
+        <dateTime>3.15.2024 10.25</dateTime>
+        <points>98</points>
+    </Transaction>
+    <Transaction>
+        <custId>ABC2222</custId>
+        <transId>XYZ1316</transId>
+        <transAmount>58.32</transAmount>
+        <dateTime>2.15.2024 10.25</dateTime>
+        <points>16</points>
+    </Transaction>
+    <Transaction>
+        <custId>ABC2222</custId>
+        <transId>XYZ1317</transId>
+        <transAmount>44.32</transAmount>
+        <dateTime> 1.15.2024 10.25</dateTime>
+        <points>0</points>
+    </Transaction>
+
+</data>
